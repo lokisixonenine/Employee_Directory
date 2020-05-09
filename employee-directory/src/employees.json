@@ -1,0 +1,71 @@
+[{
+        "id": 1,
+        "name": "SpongeBob Squarepants",
+        "image": "/images/Spongebob.png",
+        "occupation": "fry cook",
+        "contact": "theRealSpongeBob@bikinibottom.com"
+    },
+    {
+        "id": 2,
+        "name": "Patrick Starr",
+        "image": "/images/patrick.png",
+        "occupation": "Best Friend",
+        "contact": "no.this.is.patrick@bikinibottom.com"
+    },
+    {
+        "id": 3,
+        "name": "Mister Krabs",
+        "image": "/images/Mr.Krabs_.png",
+        "occupation": "Money guy",
+        "contact": "money.money.money@chumbucket.com"
+    },
+    {
+        "id": 4,
+        "name": "Shaggy",
+        "image": "/images/shaggy.png",
+        "occupation": "Administrator/Lead Dev",
+        "contact": "shags@mysterymachine.com"
+    },
+    {
+        "id": 5,
+        "name": "Velma",
+        "image": "/images/velma.png",
+        "occupation": "CEO",
+        "contact": "velma@jinkies.com"
+    },
+    {
+        "id": 6,
+        "name": "Plankton",
+        "image": "/images/plankton.png",
+        "occupation": "Evil Genius",
+        "contact": "planktonbaby@bikinibottom.com"
+    },
+    {
+        "id": 7,
+        "name": "Rick",
+        "image": "/images/rick.png",
+        "occupation": "Sometimes Pickle",
+        "contact": "rick@rick.rick"
+    },
+    {
+        "id": 8,
+        "name": "Morty",
+        "image": "/images/morty.png",
+        "occupation": "Just Morty",
+        "contact": "morty@morty.morty"
+    },
+    {
+        "id": 9,
+        "name": "Space Ghost",
+        "image": "/images/spaceghost.png",
+        "occupation": "Barber and Host",
+        "contact": "sg@cartoonnetwork.com"
+    },
+    {
+        "id": 10,
+        "name": "Squidward",
+        "image": "/images/Squidward.png",
+        "occupation": "Lead Sculptor",
+        "contact": "squidward@squidward.com"
+    }
+]
